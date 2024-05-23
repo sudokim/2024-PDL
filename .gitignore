@@ -1,0 +1,5 @@
+.conda/
+log*/
+saved/
+**/__pycache__/
+
