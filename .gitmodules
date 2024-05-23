@@ -1,3 +1,7 @@
 [submodule "Recbole-Debias"]
 	path = Recbole-Debias
 	url = https://github.com/JingsenZhang/Recbole-Debias.git
+[submodule "RecBole"]
+	path = RecBole
+	url = https://github.com/RUCAIBox/RecBole.git
+	branch = 1.0.x
